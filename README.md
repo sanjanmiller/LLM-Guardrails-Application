@@ -77,14 +77,6 @@ The `output/` folder contains sample screenshots demonstrating the application:
     └── style.css
 ```
 
-## 🔗 API Endpoints
-
-| Method | Endpoint    | Purpose                 |
-| ------ | ----------- | ----------------------- |
-| `GET`  | `/`         | 🌐 Web interface        |
-| `GET`  | `/health`   | ❤️ Health check         |
-| `POST` | `/generate` | 🤖 Guarded LLM response |
-
 ## 🚀 Setup
 
 ```bash
