@@ -79,11 +79,10 @@ The `output/` folder contains sample screenshots demonstrating the application:
 
 ## 🚀 Setup
 
-It is recommended to use a virtual environment before installing dependencies.
-
- **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
+```bash
+python -m venv venv
+pip install -r requirements.txt
+```
 
 Create `.env`:
 
